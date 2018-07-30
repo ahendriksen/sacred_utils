@@ -22,6 +22,12 @@ Utility functions for working with Sacred
 * Free software: MIT license
 * Documentation: https://sacred-utils.readthedocs.io.
 
+Installation
+------------
+
+.. code:: bash
+
+    pip install git+https://github.com/ahendriksen/sacred_utils
 
 Features
 --------
